@@ -11,3 +11,4 @@ _CEO 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 
 - [2026-05-05] 내 테크 포트폴리오를 정리해 놓은 노션 사이트를 알려줄게 "https://hooneyz.notion.site/NGFF-QMS-34fe3fd37f5480f2abd5c5f771c3fddc" 내용 분석해서 Figma 슬라이드로 정리하는 작업 한 번 해볼래? → 보고서 sessions/2026-05-05T09-08/_report.md
 - [2026-05-05] 작업을 하다가 멈춘 이유 분석해서 보고해줘 → 보고서 sessions/2026-05-05T09-16/_report.md
 - [2026-05-05] 뭐하니? → 보고서 sessions/2026-05-05T09-17/_report.md
+- [2026-05-05] 현재 designer에게 업무가 효율적으로 전달되고 있는지 또한 figma api key가 정상적으로 작동되고 있는지 확인해볼 것 → 보고서 sessions/2026-05-05T09-42/_report.md
